@@ -1,0 +1,17 @@
+user = {
+    1: {"id": 1, "nome": "Ana Silva", "email": "ana.silva@email.com", "data_registro": "2024-01-15", "sexo": "F"},
+    2: {"id": 2, "nome": "Bruno Souza", "email": "bruno.souza@email.com", "data_registro": "2024-02-10", "sexo": "M"},
+    3: {"id": 3, "nome": "Carla Dias", "email": "carla.dias@email.com", "data_registro": "2024-03-05", "sexo": "F"},
+    4: {"id": 4, "nome": "Daniel Rocha", "email": "daniel.rocha@email.com", "data_registro": "2024-01-25", "sexo": "M"},
+    5: {"id": 5, "nome": "Eduarda Lima", "email": "eduarda.lima@email.com", "data_registro": "2024-04-01", "sexo": "F"},
+    6: {"id": 6, "nome": "Felipe Costa", "email": "felipe.costa@email.com", "data_registro": "2024-02-18", "sexo": "M"},
+    7: {"id": 7, "nome": "Gabriela Nunes", "email": "gabriela.nunes@email.com", "data_registro": "2024-03-22", "sexo": "F"},
+    8: {"id": 8, "nome": "Henrique Alves", "email": "henrique.alves@email.com", "data_registro": "2024-02-01", "sexo": "M"},
+    9: {"id": 9, "nome": "Isabela Torres", "email": "isabela.torres@email.com", "data_registro": "2024-03-10", "sexo": "F"},
+    10: {"id": 10, "nome": "João Mendes", "email": "joao.mendes@email.com", "data_registro": "2024-01-30", "sexo": "M"},
+    11: {"id": 11, "nome": "Karen Martins", "email": "karen.martins@email.com", "data_registro": "2024-02-12", "sexo": "F"},
+    12: {"id": 12, "nome": "Lucas Pereira", "email": "lucas.pereira@email.com", "data_registro": "2024-04-05", "sexo": "M"},
+    13: {"id": 13, "nome": "Mariana Freitas", "email": "mariana.freitas@email.com", "data_registro": "2024-03-17", "sexo": "F"},
+    14: {"id": 14, "nome": "Nicolas Ramos", "email": "nicolas.ramos@email.com", "data_registro": "2024-01-20", "sexo": "M"},
+    15: {"id": 15, "nome": "Olívia Fernandes", "email": "olivia.fernandes@email.com", "data_registro": "2024-02-25", "sexo": "F"},
+}
