@@ -26,4 +26,7 @@ def pegar_user(user_id: int):
         return user[user_id]
     else:
         return {"Erro"}
-    
+
+@app.get('/all_users')
+def all_users():
+    return len(user)
